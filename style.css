@@ -1,0 +1,23 @@
+body{
+    background-color: chartreuse;
+}
+h1{
+    color:darkblue;
+    font-weight: 600;
+}
+#show{
+    float:right;
+margin-right: 50px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+#score{
+    margin-right: 1350px;
+    font-weight: 900;
+}
+#timer{
+    margin-left: 1350px;
+    font-weight: 900;
+}
